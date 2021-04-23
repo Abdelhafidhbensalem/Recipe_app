@@ -1,0 +1,10 @@
+.navbar-brand{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+    color: gold !important;
+}
+.fa-hamburger{
+    font-size: 30px;
+    color: gold;
+    margin-right: 10px;
+}

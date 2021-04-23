@@ -1,0 +1,7 @@
+.card_single{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 80px;
+    color: black;
+}
